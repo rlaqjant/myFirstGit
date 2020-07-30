@@ -14,4 +14,7 @@
 	commit 5
 	<footer>푸터추가</footer>
 </body>
+<script>
+	console.log('hello vs-code');
+</script>
 </html>
