@@ -7,9 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<nav>네비게이션</nav>
 	Hello world
 	commit 3
 	commit 4
 	commit 5
+	<footer>푸터추가</footer>
 </body>
 </html>
